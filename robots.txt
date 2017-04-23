@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://salalbr.github.io/sitemap.xml 
